@@ -118,6 +118,4 @@ Cartões de histórias não fazem parte do framework SCRUM, mas é a técnica ma
 ![[FIAP/Imagens/Capitulo 10 - Realizando as primeira entregas técnicas de imersão-20250129215124630.webp]]
 
 
-Fiquei sem paciencia de estudar sobre SCRUM, depois eu revisito essa bosta
 
-![[1ESO - Fase 1 - Cap10 - Realizando as primeiras entregas técnicas.docx_RevFinal.pdf]]
