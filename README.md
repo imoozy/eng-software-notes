@@ -1,5 +1,7 @@
 # 📚 FIAP - Engenharia de Software | Banco de Conhecimento
 
+É interessante clonar esse repositório no obsidian para uma melhor estrutura de aprendizado
+
 **Repositório criado para ajudar devs iniciantes e estudantes de tecnologia**  
 *(por Lucas Magalhães, estudante de Engenharia de Software)*  
 
