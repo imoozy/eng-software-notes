@@ -254,4 +254,3 @@ De acordo com Pfleeger, construir um sistema é como construir uma casa
 ![[FIAP/Imagens/Pasted image 20241015214652.png]]
 ![[FIAP/Imagens/Pasted image 20241015214704.png]]
 
-Próximo capitulo [[Content/Capitulos/Ano 1/Fase 1/Capitulo 3 - Entendendo todas as linguagens para a entrega do front-end]]

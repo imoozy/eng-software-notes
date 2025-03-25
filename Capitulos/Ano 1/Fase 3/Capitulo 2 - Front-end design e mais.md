@@ -387,17 +387,17 @@ Como utilizar então o framework para customizar as tabelas:
                 <tr>
                     <td>Lucas</td>
                     <td>Magalhães</td>
-                    <td>lucal7421@gmail.com</td>
+                    <td>xxx@gmail.com</td>
                 </tr>
                 <tr>
-                    <td>Laura</td>
+                    <td>asasas</td>
                     <td>Suikuni</td>
-                    <td>lucal7421@gmail.com</td>
+                    <td>xxxx1@gmail.com</td>
                 </tr>
                 <tr>
                     <td>Lucas</td>
                     <td>Magalhães</td>
-                    <td>lucal7421@gmail.com</td>
+                    <td>lxxxx@gmail.com</td>
                 </tr>
             </tbody>
         </table>

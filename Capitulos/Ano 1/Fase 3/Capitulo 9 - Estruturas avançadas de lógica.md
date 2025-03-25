@@ -708,6 +708,4 @@ print("Quantidade de aprovados: ", contagemAprovados)
 
 
 
-![[1ESO - Fase 3 - Cap09 - Estruturas avancadas de logica_RevFinal.pdf]]
 
-[^1]: 

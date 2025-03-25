@@ -237,7 +237,8 @@ Dito isso, um módulo de E/S não é simplesmente um conjunto de conectores mec�
 
 Os sistemas de E/S podem ser divididos em dois componentes: os próprios dispositivos de E/S e os barramentos.
 
-Para mais:
-![[1ESO - Fase 3 - Cap03 - Mais um pouco de hardware.docx_RevFinal.pdf]]
+
+
+
 
 
