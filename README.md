@@ -3,7 +3,7 @@
 **Repositório criado para ajudar devs iniciantes e estudantes de tecnologia**  
 *(por Lucas Magalhães, estudante de Engenharia de Software)*  
 
-[![LinkedIn](https://img.shields.io/badge/-Vamos_conversar?-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-magalhães-11672b18b/)
+Linkedin = [![LinkedIn](https://img.shields.io/badge/-Vamos_conversar?-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-magalhães-11672b18b/)
 
 ---
 
