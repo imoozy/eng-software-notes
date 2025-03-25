@@ -1,4 +1,4 @@
-# 📚 FIAP - Engenharia de Software | Banco de Conhecimento
+# 📚Engenharia de Software | Banco de Conhecimento
 
 É interessante clonar esse repositório no obsidian para uma melhor estrutura de aprendizado
 
@@ -10,7 +10,7 @@ Linkedin = [![LinkedIn](https://img.shields.io/badge/-Vamos_conversar?-0077B5?st
 ---
 
 ## 🎯 Objetivo
-Este repositório reúne **anotações, projetos e guias práticos** das matérias da FIAP, organizados para:
+Este repositório reúne **anotações, projetos e guias práticos** das matérias, organizados para:
 - Ajudar **calouros de Engenharia de Software** a navegar pelo curso
 - Servir como **referência rápida** para devs iniciantes
 - Documentar **erros comuns e soluções** que encontrei no caminho
@@ -24,21 +24,16 @@ Este repositório reúne **anotações, projetos e guias práticos** das matéri
 |------------------|---------------------------------------------------|
 | **Lógica de Programação** | Exercícios em Python + dicas para fugir de armadilhas comuns |
 | **Front-end Essentials**  | Templates HTML/CSS prontos + como evitar `div` soup |
-| **Banco de Dados**        | Modelagem ER passo a passo + SQL para situações reais |
+| **Modelo de laço de repetição**        | Uso do laço de repetição no dia a dia e explicação |
 
-### 🚀 **Tópicos Avançados (3º+ Semestre)**
-| Matéria          | Destaques                          |
-|------------------|-----------------------------------|
-| **Redes**        | Anotações sobre TCP/IP + wireshark |
-| **Eng. Software**| Diagramas UML explicados com exemplos |
 
-*(Atualizado conforme avanço no curso - próxima matéria: **DevOps**)*
+
+*(Atualizado conforme avanço no curso - próxima matéria: **?**)*
 
 ---
 
 ## ✨ O que tem de especial aqui?
 - ✅ **Exemplos "não-genéricos"**: Códigos que realmente usei em projetos
-- ✅ **Erros que cometi**: E como você pode evitá-los
 - ✅ **Links úteis**: Canais, livros e ferramentas que me ajudaram
 - ✅ **Versão beginner-friendly**: Sem jargões desnecessários
 
