@@ -197,5 +197,5 @@ tag <u> --> sublinhado
 </html>
 ```
 
-[[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 2 - Entendendo e aprendendo o front-End com projetos]] Capitulo anterior
-[[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear]] Próximo capitulo
+[[Content/Capitulos/Ano 1/Fase 1/Capitulo 2 - Entendendo e aprendendo o front-End com projetos]] Capitulo anterior
+[[Content/Capitulos/Ano 1/Fase 1/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear]] Próximo capitulo

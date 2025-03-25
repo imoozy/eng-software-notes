@@ -286,5 +286,5 @@ O gerenciamento de projetos acompanha essa transformação do ambiente. Se de um
 
 ![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029230433662.webp]]
 
-capitulo 3 [[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 3 - Entendendo todas as linguagens para a entrega do front-end]]
-capitulo 5 [[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação]]
+capitulo 3 [[Content/Capitulos/Ano 1/Fase 1/Capitulo 3 - Entendendo todas as linguagens para a entrega do front-end]]
+capitulo 5 [[Content/Capitulos/Ano 1/Fase 1/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação]]
