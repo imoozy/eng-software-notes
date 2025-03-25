@@ -40,20 +40,20 @@ Qual é a origem das palavras nos sistemas computacionais? A palavra, que també
 
 Quando pressionamos uma tecla, o teclado envia ao computador uma sequência de bits que identifica o a tecla pressionada, sem nos preocuparmos com letras maiúsculas ou minúsculas ou com sequências mais complexas que podem ocorrer.
 
-![[Capitulo 3 - Mais um pouco de hardware-20250226195911371.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226195911371.webp]]
 
 Na figura a cima temos os seguintes dados:
 
-![[Capitulo 3 - Mais um pouco de hardware-20250226200001167.webp]]
-![[Capitulo 3 - Mais um pouco de hardware-20250226200013085.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226200001167.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226200013085.webp]]
 
 O código HEX para cada uma das teclas do teclado:
 
-![[Capitulo 3 - Mais um pouco de hardware-20250226200042396.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226200042396.webp]]
 
 ## Por uma placa de áudio:
 
-![[Capitulo 3 - Mais um pouco de hardware-20250226200231854.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226200231854.webp]]
 
 As placas de áudio geram códigos que correspondem à intensidade do sinal (som) aplicado no microfone. Em (A) temos um microfone que ao ser estimulado pela voz de uma pessoa, produz um sinal de saida (V<sub>mic</sub>) cuja intensidade é mostrada em (b).
 
@@ -67,7 +67,7 @@ Em uma câmera digital, a imagem de um objeto é captada por um sensor eletrôni
 
 Depois, por meio de um conversor A/D, a cor de cada fragmento é associada a um código binário de 8 bits, Essa é apenas uma explicação inicial sobre sistemas de digitalização de imagens.
 
-![[Capitulo 3 - Mais um pouco de hardware-20250226200633299.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226200633299.webp]]
 
 # Função
 
@@ -84,13 +84,13 @@ A figura a baixo apresenta memórias nas quais em (a), o endereçamento é feito
 
 Em (b) o endereçamento é feito com dois bits, assim podemos especificar quatro endereços cada um deles associados a uma combinação de valores dos bits de endereçamento. E, em (c), com 4 bits de endereçamento, podemos especificar 16 endereços.
 
-![[Capitulo 3 - Mais um pouco de hardware-20250226202245351.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226202245351.webp]]
 
 É por isso então que há equivalência de números!
 
-![[Capitulo 3 - Mais um pouco de hardware-20250226202845397.webp]]
-![[Capitulo 3 - Mais um pouco de hardware-20250226202854546.webp]]
-![[Capitulo 3 - Mais um pouco de hardware-20250226202907974.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226202845397.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226202854546.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250226202907974.webp]]
 
 # Classificação das memórias
 
@@ -140,7 +140,7 @@ Também são memórias encontradas somente dentro dos processadores e são organ
 
 A memória cache destina-se a guardar os dados que serão imediatamente utilizados pelo processador ou os dados que acabaram de ser tratados e devem ser enviados para a memória principal (RAM). Na prática sua função é a mesma da memória principal.
 
-![[Capitulo 3 - Mais um pouco de hardware-20250227095157577.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250227095157577.webp]]
 
 A memória cache é importante para usuários que mantêm muitos programas de baixo custo computacional, ou seja, que usam pouco processamento, abertos ao mesmo tempo, por exemplo, vários arquivos de Word, Excel, etc.
 
@@ -191,7 +191,7 @@ As memórias DDR5 podem diferir umas das outras com relação a vários aspectos
 
 Um sinal de clock. 6 é um sinal de tensão que oscila entre dois valores, sendo um deles 0V e o outro definido pela placa-mãe, podendo inclusive ser modificado em algumas placa-mãe.
 
-![[Capitulo 3 - Mais um pouco de hardware-20250227112046801.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250227112046801.webp]]
 
 > [!NOTE] Explicação
 > Observer as mudanças de níveis lógicos: em 1 segundo, 3 oscilações completas ocorrem, ou, de forma, o sial se repete 3 vezes; dizemos então que a frequência deste sinal é de 3hz.
@@ -200,7 +200,7 @@ Quanto maior o número de oscilações por segundo do sinal de clock, maior ser�
 
 As memórias DDR operam com sinais de clock que vão de 1.866 até 5.266MHZ, ou seja, de 1.866.000.000 oscilações por segundo até 5.266.000.000 oscilações por segundo.
 
-![[Capitulo 3 - Mais um pouco de hardware-20250227112438564.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250227112438564.webp]]
 
 - **Capacidade do pente**
 As memórias principais são construídas pela montagem de chips em um módulo chamado de pente. A tecnologia DDR4 possui um limite de capacidade em seus chips, de modo que um pente de memória RAM pode ter no máximo 16GB de espaço.
@@ -211,7 +211,7 @@ As memórias principais são construídas pela montagem de chips em um módulo c
 
 A piramide hierárquica de memória mostra a relação entre vários tipos de memória. Tais memórias são categorizadas entre si pela comparação de suas características. De acordo com a pirâmide, quanto mais ao topo, maior seu custo por Byte, maior sua velocidade e menor sua quantidade disponível no computador
 
-![[Capitulo 3 - Mais um pouco de hardware-20250227112924603.webp]]
+![[FIAP/Imagens/Capitulo 3 - Mais um pouco de hardware-20250227112924603.webp]]
 
 A Intel lançou um novo tipo de memória chamada Optane. Para que o usuário possa desfrutar dessa memória, a placa-mãe deve ser compatível. Trata-se de uma memória semicondutora, não volátil e baseada na tecnologia 3D Xpoint, o que torna sua velocidade superior a das memórias do tipo NAND flash presente nos SSDs.
 

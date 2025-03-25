@@ -6,11 +6,11 @@ Algoritmo são os passos para a resolução de um problema
 
 Problema para algoritmo:
 
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250107223044900.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250107223044900.webp]]
 
 E se no passo pegar a escada não tem escada??
 
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250107223107638.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250107223107638.webp]]
 O bug é apenas um passo do seu algoritmo onde ele não foi concluído com êxito ou foi travado. Talvez ou foi mal previsto estando a mais ou a menos causando uma falha.
 
 Do inicio
@@ -25,7 +25,7 @@ No meio da computação duas das formas mais comuns de representação algorítm
 
 Exemplo, construa um algoritmo que recebe 2 valores do usuário e realiza a soma entre eles. Ao final deve exibir o resultado dessa soma.
 A representação através de um fluxograma contém uma sequencia de blocos, indicando a ordem em que os eventos ocorrerão. Já a representação através de um pseudocódigo é feita através de texto, com uma linguagem que não é uma linguagem de programação. mas que apresenta uma estrutura formal.
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250107224154580.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250107224154580.webp]]
 
 
 ```
@@ -101,7 +101,7 @@ print(f"Valor1= %d \nValor 2 = %d \nValor 3 = %d" % (valor1, valor2, valor3))
 Variavel é algo que muda e memória é algo que armazena
 Mas a variável de memória é o local do computador onde se armazena uma informação
 
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250108232312703.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250108232312703.webp]]
 
 ```python
 nome = "Lucas"
@@ -165,17 +165,17 @@ print("Dobro =", valor + valor)
 
 # A CALCULADORA!
 
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223155358.webp]]
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223351461.webp]]
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223427715.webp]]
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223534421.webp]]
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223616900.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223155358.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223351461.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223427715.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223534421.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113223616900.webp]]
 
 ## Operadores aritméticos
 
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113225125912.webp]]
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113225150968.webp]]
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113230030573.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113225125912.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113225150968.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250113230030573.webp]]
 
 ## Algoritmo: Calculando o delta
 
@@ -194,7 +194,7 @@ print(f"Delta = {delta:.1f}")
 
 ## Algoritmo: Porcentagem em programação
 
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250114213441922.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250114213441922.webp]]
 
 
 ```Python
@@ -219,7 +219,7 @@ print(valor * 0.8)
 
 Situação lógica para uma calculadora
 
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250114214739712.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250114214739712.webp]]
 
 ## Algoritmo múltiplo de 5:
 
@@ -235,7 +235,7 @@ print(prox_mult_5)
 
 ## Algoritmo: Cédulas 
 
-![[Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250114220157675.webp]]
+![[FIAP/Imagens/Capitulo 6 -  Primeiros passos de utilização de algoritmos e fluxogramas-20250114220157675.webp]]
 
 ```python
 #Digitar a quantia

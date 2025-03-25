@@ -34,7 +34,7 @@ img {
 }
 ```
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250130214758527.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250130214758527.webp]]
 
 # DIV
 
@@ -135,12 +135,12 @@ para mais tipos de bordas:
 
 https://www.w3schools.com/cssref/playdemo.php?filename=playcss_border-style&preval=dashed
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250202132605154.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250202132605154.webp]]
 
 Não esquecer esse layout para margin, border e padding sendo padding espaçamento interior, border borda e margin exterior.
 
 Exemplificação do que está a cima.
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250202132821123.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250202132821123.webp]]
 
 O Box model descreve como as divs devem ser montadas em nossa página, ele é composto por quatro elementos: margin, border, padding e content. Essas quatro propriedades, em conjunto com a largura e altura definirão como ficará o seu container
 
@@ -156,9 +156,9 @@ Define a borda (contorno) da div ou de qualquer outro elemento. As bordas são o
 
 Define a margem interna (preenchimento) da div. Entenda essa margem como o distanciamento que o conteúdo terá das bordas ou das extremidades da div.
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203202814078.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203202814078.webp]]
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203202823436.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203202823436.webp]]
 
 Usar padding dava um trabalhão, então foi criado a propriedade box-sizing, que em conjunto com o valor border-box, altera o comportamento dos elementos com padding, permitindo o espaçamento interno seja aplicado, sem alterar a altura e a largura do container.
 
@@ -173,7 +173,7 @@ div {
 }
 ```
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203058987.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203058987.webp]]
 
 # O conteúdo da DIV
 
@@ -189,7 +189,7 @@ Podemos definir altura e a largura, máxima e mínima, que um elemento pode ter 
 
 Temos as seguintes propriedades:
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203535651.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203535651.webp]]
 
 ```css
 div {
@@ -207,14 +207,14 @@ div {
 
 Define o que acontecerá quando o conteúdo inserido em uma div for maior que ela. E possui as seguintes propriedades:
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203635501.webp]]
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203648403.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203635501.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203648403.webp]]
 
 ## Box-shadow
 
 Insere uma sombra em volta de uma caixa. Podemos definir várias características para elas, sendo que os valores devem ser declarados na seguinte ordem:
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203736075.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203736075.webp]]
 ```css
 div{
 	box-shadow: 10px 10px 10px 10px #000; 
@@ -223,7 +223,7 @@ div{
 
 Imagine que temos uma div com 300px de largura, 250px de altura, 10 de padding e borda e 5px, sólida na cor vermelha, veja como essa div ficará aplicando padrões de sombra diferentes:
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203956994.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203203956994.webp]]
 
 ## Border-radius
 
@@ -250,7 +250,7 @@ div {
 }
 ```
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203204354644.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203204354644.webp]]
 
 site para mais cores:
 https://color.adobe.com/pt/create/color-wheel
@@ -300,7 +300,7 @@ div {
 }
 ```
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203210058114.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203210058114.webp]]
 
 Caso você necessite, podemos fazer com que as imagens repitam apenas em um determinado eixo da caixa, eixo x, para a largura, ou eixo y para a altura. Para isso usamos a propriedade background-repeat com os valores repeat-x ou repeat-y.
 
@@ -314,13 +314,13 @@ div {
 }
 ```
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211450903.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211450903.webp]]
 
 As imagens de fundo, quando não repetidas, poderão ter um posicionamento específico dentro da caixa. Para isso, basta usar a propriedade background-position, seguida de algum valor válido:
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211619618.webp]]
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211628255.webp]]
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211636298.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211619618.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211628255.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211636298.webp]]
 
 ```CSS
 div {
@@ -339,7 +339,7 @@ div {
 }
 ```
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211726869.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211726869.webp]]
 
 As imagens de fundo podem ser configuradas para que fiquem fixas na tela ou acompanhem o seu scroll, para isso usaremos a propriedade background-attachment, com os seguintes valores:
 
@@ -360,13 +360,13 @@ div {
 }
 ```
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211933732.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203211933732.webp]]
 
 As imagens de fundo também poderão ter seu tamanho redimensionado, para isso, usamos a propriedade background-size, que pode receber os seguintes valores: 
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203212041510.webp]]
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203212049179.webp]]
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203212057174.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203212041510.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203212049179.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203212057174.webp]]
 
 ```css
 div {
@@ -388,7 +388,7 @@ div {
 }
 ```
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203212119090.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203212119090.webp]]
 
 # Pedidos do cliente
 
@@ -482,5 +482,5 @@ a {
 para mais fontes:
 https://fonts.google.com
 
-![[Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203213953242.webp]]
+![[FIAP/Imagens/Capitulo 2 - Continuando a imersão do conhecimento no front-end-20250203213953242.webp]]
 

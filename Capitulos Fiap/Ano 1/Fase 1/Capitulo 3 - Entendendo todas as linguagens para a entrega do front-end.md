@@ -20,7 +20,7 @@ Tim era o cientista responsável por várias pesquisas que estavam sendo realiza
 
 A maioria das tags deve ser aberta e fechada, assim você definirá onde começa e termina o conteúdo inserido. Existem algumas tags que não precisam de fechamento, que são chamadas de elementos vazios.
 
-![[Pasted image 20241015221232.png]]
+![[FIAP/Imagens/Pasted image 20241015221232.png]]
 
 
 # HTML O FOCO É CONTEÚDO
@@ -32,24 +32,24 @@ Um projeto web costuma ser separado em três camadas básicas: o conteúdo, a ap
 ## Camada de conteúdo
 
 É onde deve-se inserir tudo aquilo que desejamos em nosso site. É redundante dizer mas na camada de conteúdo temos conteúdo. É aqui que iremos montar o código-fonte HTML, incluindo toda a estrutura de tags necessárias para exibir nossa pagina
-![[Pasted image 20241015222137.png]]
+![[FIAP/Imagens/Pasted image 20241015222137.png]]
 
 ## Camada de apresentação
 
 É aqui que vamos deixar nossa página bonita, Esta camada irá formatar nosso conteúdo, tarefa para a qual contaremos com uma linguagem de formatação fantástica: o Cascading StyleSheet (CSS). Apenas com HTML sua aplicação não chamará, visualmente, a atenção do usuário. Ele não foi criado para formatar nada, então, precisaremos de alguém que saiba fazer esta tarefa. 
 Vale ressaltar um frase que resume a dobradinha HTML + CSS:
-![[Pasted image 20241015222427.png]]
+![[FIAP/Imagens/Pasted image 20241015222427.png]]
 
 ## Camada de comportamento
 
 Aqui a página fica mais interativa ao usuário. Utilizaremos nela a maravilhosa linguagem de programação JS (javascript), que irá fazer coisas que o HTML sozinho não é capaz de fazer. Como já foi dito anteriormente, ele é apenas uma linguagem de marcação.  
-![[Pasted image 20241015222618.png]]
+![[FIAP/Imagens/Pasted image 20241015222618.png]]
 
 As três camadas em conjunto, e funcionando corretamente, irão proporcionar uma feliz experiência ao usuário. Pensar no usuário é fundamental para seu projeto, pois ele ficando feliz voltará ao seu site, recomendará para os amigos, consumirá mais o conteúdo e até mesmo os produtos, se esse for o caso. Então ele deve ter uma experiência fenomenal com o seu site a qual chamamos de user experience (UX)
 
 # O PRINCIPIO DO FRONT-END
 
-![[Pasted image 20241015224902.png]]
+![[FIAP/Imagens/Pasted image 20241015224902.png]]
  Para criar o front-end e agradar a todo mundo, você precisará conhecer e usar três tecnologias básicas: HTML (Camada de conteúdo), CSS (Camada de apresentação) E JavaScript (Camada de comportamento).
 
 # Estrutura básica HTML
@@ -176,7 +176,7 @@ tag <u> --> sublinhado
 
 # Imagens
 
-![[Pasted image 20241022205506.png]]
+![[FIAP/Imagens/Pasted image 20241022205506.png]]
 ``` html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -197,5 +197,5 @@ tag <u> --> sublinhado
 </html>
 ```
 
-[[Capitulo 2 - Entendendo e aprendendo o front-End com projetos]] Capitulo anterior
-[[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear]] Próximo capitulo
+[[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 2 - Entendendo e aprendendo o front-End com projetos]] Capitulo anterior
+[[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear]] Próximo capitulo

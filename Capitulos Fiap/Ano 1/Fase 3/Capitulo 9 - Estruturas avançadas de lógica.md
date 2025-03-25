@@ -54,11 +54,11 @@ Fim_para
 Em lógica de programação há três estruturas de repetição
 
 - Laço contador para **for**
-![[Capitulo 9 - Estruturas avançadas de lógica-20250310214947492.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250310214947492.webp]]
 - Laço pré-condicional Enquanto-Faça **While**
-![[Capitulo 9 - Estruturas avançadas de lógica-20250310214608710.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250310214608710.webp]]
 - Laço pós condicional Faça-Enquanto
-![[Capitulo 9 - Estruturas avançadas de lógica-20250310214815301.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250310214815301.webp]]
 
 ## Enquanto for verdade vamos repetir
 
@@ -98,7 +98,7 @@ Exemplificando: considere que um algoritmo leia números, efetue a somatória e 
 
 Quando estamos aprendendo a usar laços, a maior dificuldade é sabermos "o que fica dentro do laço e o que fica fora". Para facilitar este entendimento, vamos usar a descrição narrativa do algoritmo:
 
-![[Capitulo 9 - Estruturas avançadas de lógica-20250311212443132.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250311212443132.webp]]
 Primeiro vamos definir os passos importantes:
 
 - Ler os números
@@ -186,7 +186,7 @@ Da mesma forma como realizamos o incremento na variável i, poderíamos ter real
 > [!NOTE] nota
 > Algumas linguagens de programação suportam notações como "i++" ou "i+1" para a operação de incremento na variável contadora.
 
-![[Capitulo 9 - Estruturas avançadas de lógica-20250311214907463.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250311214907463.webp]]
 
 ```PYTHON
 cont = 0
@@ -218,7 +218,7 @@ A ideia de funcionamento do laço de repetição para é baseada em determinarmo
 
 A estrutura no laço contador PARA (for):
 
-![[Capitulo 9 - Estruturas avançadas de lógica-20250311215552474.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250311215552474.webp]]
 
 Analisando a sintaxe em pseudocódigo, conseguimos entender bem esse funcionamento:
 ```PSEUDOCÓDIGO
@@ -272,7 +272,7 @@ Para todos os algoritmos que envolvam laços, conseguimos resolver todos os esti
 - Faça-Enquanto (while True): para situações condicionais (voltar indeterminadas), em que deve ao menos executar uma vez o bloco de repetição.
 - Para (for): Para situações de contagem determinadas de voltar (finitas), em que o programador tem o maior poder de manipulação do intervalo das voltas através do contador.
 
-![[Capitulo 9 - Estruturas avançadas de lógica-20250317200216145.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250317200216145.webp]]
 
 
 ```python
@@ -289,7 +289,7 @@ print("Somatória: ", soma)
 
 
 
-![[Capitulo 9 - Estruturas avançadas de lógica-20250317201330955.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250317201330955.webp]]
 
 
 ```
@@ -695,7 +695,7 @@ Média do Primeiro Semestre: {mediaPrimeiroSemestre:.1f}")
 print("Quantidade de aprovados: ", contagemAprovados)
 ```
 
-![[Capitulo 9 - Estruturas avançadas de lógica-20250317211443946.webp]]
+![[FIAP/Imagens/Capitulo 9 - Estruturas avançadas de lógica-20250317211443946.webp]]
 
 
 

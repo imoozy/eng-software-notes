@@ -114,16 +114,16 @@ O norte-americano Howard Aiken termina o Mark 1, primeiro computador eletromecâ
 # Principais tipos de softwares
 
 Tipos de software:
-![[Pasted image 20240930230716.png]]
+![[FIAP/Imagens/Pasted image 20240930230716.png]]
 
 Social CRM se apresentou em 2011:
 
-![[Pasted image 20240930230919.png]]
+![[FIAP/Imagens/Pasted image 20240930230919.png]]
 Review:
-![[Pasted image 20240930231022.png]]
-![[Pasted image 20240930231030.png]]
-![[Pasted image 20240930231045.png]]
-![[Pasted image 20240930231100.png]]
+![[FIAP/Imagens/Pasted image 20240930231022.png]]
+![[FIAP/Imagens/Pasted image 20240930231030.png]]
+![[FIAP/Imagens/Pasted image 20240930231045.png]]
+![[FIAP/Imagens/Pasted image 20240930231100.png]]
 
 ## Sistema:
 
@@ -167,7 +167,7 @@ A fim de se obter uma clara percepção da engenharia de software, é relevante 
 
 A imagem a baixo destaca o questionamento: A crise é pertinente ao software ou ao processo de desenvolvimento de software?
 
-![[Pasted image 20241001001335.png]]
+![[FIAP/Imagens/Pasted image 20241001001335.png]]
 
 O estudo mostra que não há crise no desenvolvimento de software, pois o crescimento da competição e da inteligência computacional dos hardwares resultou na demanda por sistemas de software cada vez mais complexos, que tirem proveito de tal capacidade. A chegada desses sistemas mais complexos ocasionou a necessidade de reavaliação da forma de desenvolver sistemas. Desde o aparecimento do primeiro computador até os dias de hoje, as técnicas para o desenvolvimento de software têm evoluído a fim de suprir as necessidades das partes interessadas.
 
@@ -179,11 +179,11 @@ Um componente fundamental do desenvolvimento de software é a qualidade da comun
 
 Buscando fatores que contribuem para o fracasso no desenvolvimento de software, a imagem a baixo destaca como principal fonte de erros no ciclo de vida de um software a fase de identificação dos problemas, conhecida como análise de requisitos.
 
-![[Pasted image 20241001220450.png]]
+![[FIAP/Imagens/Pasted image 20241001220450.png]]
 
 O período de 1994 e 2015, apresentado na figura a baixo mostra a evolução do cenário anteriormente apresentado. Destaca-se que me 2002 houve uma melhoria significativa no percentual de projetos entregues dentro do tempo, do custo e das especificações previstas, o que subiu para 34%; o percentual de projetos cancelados ou fracassados antes de serem concluídos caiu para 15%; porém os atrasados representaram 51%
 
-![[Pasted image 20241001220700.png]]
+![[FIAP/Imagens/Pasted image 20241001220700.png]]
 
 De acordo com o Standish Group, as principais causas de falhas nos projetos estão associadas a dificuldades com os seguintes temas: ausência de apoio da alta gerência, comportamento ao trabalhar em grupo, envolvimento superficial do usuário, inexperiência do gerente de projetos, falta de equipe qualificada e dúvidas relacionadas às regras de negócio e ao escopo de projeto.
 
@@ -191,11 +191,11 @@ De acordo com o Standish Group, as principais causas de falhas nos projetos est�
 
 ## Falhas acontecem, como evitá-las?
 
-![[Pasted image 20241001222046.png]]
-![[Pasted image 20241001222105.png]]
+![[FIAP/Imagens/Pasted image 20241001222046.png]]
+![[FIAP/Imagens/Pasted image 20241001222105.png]]
 De acordo com Swebok, o termo "Engenharia de software" foi criado na década de 60 e utilizado oficialmente em 68 na conferência sobre Engenharia de software da Otan. Sua origem está relacionada a uma tentativa de contornar a crise do software, com a finalidade de dar um tratamento sistemático e controlado ao desenvolvimento de sistemas de software complexos.
 
-![[Pasted image 20241001222819.png]]
+![[FIAP/Imagens/Pasted image 20241001222819.png]]
 A IEEE Computer society aprova a elaboração do Swebok, guia para ser a principal referência da engenharia de software.
 
 Em 72, a IEEE publica, pela primeira vez, seu relatório sobre engenharia de software.
@@ -218,7 +218,7 @@ Os frameworks de gerenciamento de projetos ágeis surgiram em função da criaç
 
 A base para a elaboração desse manifesto considera que os requisitos não são estáveis durante todo o projeto, e as mudanças ocorrerão em qualquer cenário, por isso as execuções sequenciais das fases de um projeto não são tão previsíveis como gostaríamos que fossem. os fundamentos básicos que guiam o manifesto são:
 
-![[Pasted image 20241001235335.png]]
+![[FIAP/Imagens/Pasted image 20241001235335.png]]
 
 
 # Áreas de conhecimento da engenharia de software
@@ -226,7 +226,7 @@ A base para a elaboração desse manifesto considera que os requisitos não são
 O Swebok organizou dez áreas de conhecimento com o objetivo de estabelecer um limite para a engenharia de software:
 Independentemente da área de conhecimento, a engenharia de software tem elementos fundamentais, como: Método, ferramentas e processos, conforme destaca a imagem a baixo:
 
-![[Pasted image 20241001235526.png]]
+![[FIAP/Imagens/Pasted image 20241001235526.png]]
 
 Os processos representam as ações realizadas, ou seja, a aplicação de métodos e ferramentas para se obter um resultado específico e definem a sequência de métodos que serão executados bem como quais ferramentas serão disponibilizadas.
 
@@ -240,18 +240,18 @@ A equipe envolvida no desenvolvimento do sistema de software utiliza ferramentas
 
 De acordo com Pfleeger, construir um sistema é como construir uma casa
 
-![[Pasted image 20241002000026.png]]
-![[Pasted image 20241002000037.png]]
-![[Pasted image 20241002000051.png]]
-![[Pasted image 20241002000103.png]]
-![[Pasted image 20241002000117.png]]
-![[Pasted image 20241002000129.png]]
-![[Pasted image 20241002000240.png]]![[Pasted image 20241002000249.png]]
+![[FIAP/Imagens/Pasted image 20241002000026.png]]
+![[FIAP/Imagens/Pasted image 20241002000037.png]]
+![[FIAP/Imagens/Pasted image 20241002000051.png]]
+![[FIAP/Imagens/Pasted image 20241002000103.png]]
+![[FIAP/Imagens/Pasted image 20241002000117.png]]
+![[FIAP/Imagens/Pasted image 20241002000129.png]]
+![[FIAP/Imagens/Pasted image 20241002000240.png]]![[FIAP/Imagens/Pasted image 20241002000249.png]]
 
 # Desafios encontrados pela engenharia de software
 
-![[Pasted image 20241015214645.png]]
-![[Pasted image 20241015214652.png]]
-![[Pasted image 20241015214704.png]]
+![[FIAP/Imagens/Pasted image 20241015214645.png]]
+![[FIAP/Imagens/Pasted image 20241015214652.png]]
+![[FIAP/Imagens/Pasted image 20241015214704.png]]
 
-Próximo capitulo [[Capitulo 3 - Entendendo todas as linguagens para a entrega do front-end]]
+Próximo capitulo [[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 3 - Entendendo todas as linguagens para a entrega do front-end]]

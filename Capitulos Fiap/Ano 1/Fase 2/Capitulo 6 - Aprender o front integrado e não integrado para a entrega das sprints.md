@@ -21,7 +21,7 @@ div {
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250206214059457.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250206214059457.webp]]
 
 Olhando dessa forma pode até parecer errado usar divs para a construção de nossas páginas. Pode parecer, mas não é. A DIV é elemento muito importante e faz parte da estrutura do layout da página, então, use a vontade. O que podemos fazer é usar seletores mais inteligentes para o seletor de tag, e assim aplicarmos formatações diferentes para elementos iguais. ID e CLASS.
 
@@ -60,7 +60,7 @@ div {
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250206215031747.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250206215031747.webp]]
 
 Você deve ter percebido que a segunda div ficou diferente das demais. Isso aconteceu porque os atributos de id, quando declarados em conjunto com uma tag, têm maior especificidade do que os seletores de tag. A especificidade é a forma usada para que os browsers definam quais valores das propriedades são mais importantes para os elementos quando eles apresentarem algum conflito.
 No exemplo a cima, a segunda div utiliza o "id container", sendo, assim, as regras dele sobrescrevem as regras definidas para a tag div. Nesse caso,, as bordas e largura da div serão exibidas conforme o que foi declarado no "id container".
@@ -103,7 +103,7 @@ Todo elemento HTML pode fazer uso de várias classes ao mesmo tempo, para isso, 
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250211213909227.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250211213909227.webp]]
 
 Foi criada uma classe mais genérica chamada container, que possui as regras que deveriam ser repetidas em todas as três divs. Também foram criadas as classes mais especialistas com as cores que devem ser aplicadas às divs. Temos algumas vantagens codificando dessa maneira:
 
@@ -145,7 +145,7 @@ Com o uso do sinal de asterisco ( * ) podemos aplicar formatações a todos os e
 
 No código fonte "Código CSS - seletor asterisco", todas as tags terão seuas margens externas e internas zeradas, e, caso seja aplicado algum valor ao padding, eles não serão adicionados ao tamanho dos elementos.
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250211221151057.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250211221151057.webp]]
 
 ### Seletor de descendência
 
@@ -166,7 +166,7 @@ ul li{
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250211221411975.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250211221411975.webp]]
 
 ## Seletor adjacente
 
@@ -189,7 +189,7 @@ ul + p{
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217140018247.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217140018247.webp]]
 
 
 ## Seletor de irmão
@@ -213,7 +213,7 @@ div ~ p {
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217140140201.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217140140201.webp]]
 
 ## Seletor de filhos diretos
 
@@ -260,7 +260,7 @@ ul a:hover {
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217141913657.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217141913657.webp]]
 
 ### Pseudoclasse nth-child
 
@@ -283,7 +283,7 @@ Aplica uma formatação a um elemento conforme a sua posição dentro de um grup
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217145442534.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217145442534.webp]]
 Podemos também usar as palavras chave odd (**impar**) e even (**par**) para aplicar formatações para elementos nessas posições. Exemplo: deixar os parágrafos pares com cor de fundo azul e os ímpares com cor de fundo vermelha.
 
 ```html
@@ -306,7 +306,7 @@ Podemos também usar as palavras chave odd (**impar**) e even (**par**) para apl
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217145638374.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217145638374.webp]]
 
 ### Pseudoclasse first-child
 
@@ -330,7 +330,7 @@ Aplica uma formatação ao primeiro elemento de um grupo. Ex: Deixar o primeiro 
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214142039.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214142039.webp]]
 
 ### Pseudoclasse Last-child
 
@@ -354,7 +354,7 @@ Aplica uma formatação ao último elemento de um grupo. Exemplo: deixar o últi
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214302188.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214302188.webp]]
 
 ## Pseudoelementos
 
@@ -378,7 +378,7 @@ Consulta de pseudoelementos: https://caniuse.com
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214603311.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214603311.webp]]
 ### Pseudoelementos After e Before
 
 É muito legal usar esses pseudoelementos, pois permitem que algum conteúdo seja inserido antes ou depois do elemento a ele associado. Essa inserção é feita pela CSS, utilizando a propriedade content. Um conteúdo inserido de forma dinâmica e que pode sofrer ações da formatação.
@@ -407,11 +407,11 @@ h2::after {
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214816516.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214816516.webp]]
 
 Caso queira mudar a regra CSS para utilizar o pseudoelemento before, então, a linha ficará posicionada antes do elemento h2
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214933348.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217214933348.webp]]
 
 ---
 ### Pseudoelemento selection
@@ -432,14 +432,14 @@ Aplicará uma formatação diferente assim que alguma parte do seu conteúdo for
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217215349080.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217215349080.webp]]
 
 fontes awesome: https://fontawesome.com
 pesquisar por cdn
 
 A tag i permite colocar um texto no estilo itálico, as letras ficam inclinadas. Essa tag era utilizada nos primórdios da internet, antes do surgimento das boas práticas, quando era comum misturar conteúdo e formatação. No caso da Font Awesome, eles usam essa tag como um container para as classes que exibirão os ícones. não insira conteúdo nesse elemento. 
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217220033415.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217220033415.webp]]
 Para que os ícones sejam visíveis na tela, precisamos de alguém que entenda essas classes que estão nas tag i. No próprio site da Font Awesome, você pode fazer seu cadastro, que lhe enviará um link com o endereço de algum servidor que disponibiliza esse serviço.
 
 Caso você não queira cadastrar, pode utilizar o https://cdnjs.com/libraries/font-awesome , ele também disponibilizará o endereço de algum servidor que tenha esses ícones
@@ -479,7 +479,7 @@ Caso você não queira cadastrar, pode utilizar o https://cdnjs.com/libraries/fo
 </body>
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217220845062.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217220845062.webp]]
 
 
 ```css
@@ -574,7 +574,7 @@ h3,
 }
 ```
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217220901467.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217220901467.webp]]
 
-![[Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217220913376.webp]]
+![[FIAP/Imagens/Capitulo 6 - Aprender o front integrado e não integrado para a entrega das sprints-20250217220913376.webp]]
 

@@ -39,21 +39,21 @@ De acordo com o PMBOK, um guia de boas práticas de reputação mundial "um proj
 
 # Projeto x Operações
 
-![[Pasted image 20241022214815.png]]
-![[Pasted image 20241022214828.png]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215639824.webp]]
+![[FIAP/Imagens/Pasted image 20241022214815.png]]
+![[FIAP/Imagens/Pasted image 20241022214828.png]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215639824.webp]]
 
 O projeto gera um primeiro exemplar de um produto, geralmente chamado de protótipo, enquanto a operação gera o segundo exemplar em diante, ou seja, uma linha de montagem, tornando-os interdependentes.
 
 A seguir se vê a diferença em vários aspectos:
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215845546.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215856795.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215915376.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215925144.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215933574.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215943152.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215952465.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215845546.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215856795.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215915376.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215925144.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215933574.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215943152.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022215952465.webp]]
 
 
 # Aprendendo conceitos IMPORTANTES
@@ -139,11 +139,11 @@ Os ativos de processos organizacionais podem ser agrupados em duas categorias:
 
 ## Processos e procedimentos
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022233751345.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022233751345.webp]]
 
 ## Base de conhecimento 
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022233809318.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022233809318.webp]]
 
 # Fatores ambientais da empresa
 
@@ -162,7 +162,7 @@ Trata-se de condições pertinentes à empresa que influenciam ou restringem o p
 - Banco de dados comerciais que podem ser usados para estimativa de custo ou estudo de riscos.
 - Sistema de informações do gerenciamento de projetos: Software para cronograma, sistema de gerenciamento de configuração, coleta e distribuição de informações, como uma intranet etc.
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022234316128.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022234316128.webp]]
 
 # Processos de gerenciamento de projetos
 
@@ -174,11 +174,11 @@ Para ser bem-sucedida, a equipe do projeto deve selecionar e executar os process
 
 ## Processos de gerenciamento de projetos
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022234720662.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022234720662.webp]]
 
 ## Processos orientados a produtos
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022234740355.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241022234740355.webp]]
 
 Nosso estudo foca-se nos processo de gerenciamento que são aplicados globalmente em projetos de qualquer área de negócio. São considerados "boa prática" pois é consenso que a aplicação destes processos pode aumentar as chances de sucesso de um projeto. Isso não significa, entretanto, que todos os processos descritos adiante devam ser aplicados uniformemente a todos os projetos
 
@@ -210,10 +210,10 @@ O gerente de projetos, com a colaboração da equipe, sempre é responsável por
 Os grupos de processos de gerenciamento de projetos são vinculados pelas saídas que produzem. Raramente são distintos ou correm uma única vez. Trata-se de atividades sobrepostas e podem ocorrer ao longo de todo o projeto. 
 Abaixo a figura mostra como os grupos de processos interagem e se sobrepõem em diversas ocasiões.
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241028132106367.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241028132106367.webp]]
 Além desta interação entre os grupos e processos, é importante salientar que existe um ciclo PDCA definido para o gerenciamento de projetos. O ciclo PDCA compreende os atos de Planejar(Plan), Fazer(Do), Verificar(Check) e Agir(Act), repetindo estas ações diversas vezes durante a execução do projeto, dependendo do ciclo de vida adotado, como mostra a baixo.
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241028132433529.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241028132433529.webp]]
 
 # Conceitos Ágeis modernos
 
@@ -266,17 +266,17 @@ No SCRUM, além da existência das atividades que devem ser realizadas durante o
 
 A gestão ágil com SCRUM é rígida e exige disciplina na sua execução. As regras definidas em cada passo dever ser cumpridas para garantir os resultados propostos pelo método:
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221141590.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221141590.webp]]
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221201343.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221210090.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221218139.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221225532.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221237603.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221247644.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221258081.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221306930.webp]]
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221315500.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221201343.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221210090.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221218139.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221225532.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221237603.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221247644.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221258081.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221306930.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029221315500.webp]]
 
 O SCRUM é o framework ágil mais utilizado no mercado nos dias atuais.
 
@@ -284,7 +284,7 @@ O SCRUM é o framework ágil mais utilizado no mercado nos dias atuais.
 
 O gerenciamento de projetos acompanha essa transformação do ambiente. Se de um lado o método tradicional é centrado em um processo sequencial e dirigido à qualidade dos artefatos, do outro o método ágil tem foco na rapidez de adequação às mudanças e conta com elementos como: cliente integrado e ciclos curtos de desenvolvimento.
 
-![[Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029230433662.webp]]
+![[FIAP/Imagens/Capitulo 4 - Develop Enviromnment Desenvolver ou primeiro mapear-20241029230433662.webp]]
 
-capitulo 3 [[Capitulo 3 - Entendendo todas as linguagens para a entrega do front-end]]
-capitulo 5 [[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação]]
+capitulo 3 [[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 3 - Entendendo todas as linguagens para a entrega do front-end]]
+capitulo 5 [[Content/Capitulos Fiap/Ano 1/Fase 1/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação]]

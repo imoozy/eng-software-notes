@@ -68,7 +68,7 @@ var notaP1 = prompt("Digite a nota da Prova 1");
 
 O resultado dessa instrução pode ser observado na figura abaixo
 
-![[Capitulo 9 - Primeiros passos com o Javascript-20250219230541422.webp]]
+![[FIAP/Imagens/Capitulo 9 - Primeiros passos com o Javascript-20250219230541422.webp]]
 
 ótimo! Agora temos uma forma de interagir com o usuário e solicitarmos efetivamente as informações necessárias. Se quisermos mudar nosso programa de cálculo de média a partir das notas informadas, precisamos complementar algumas coisas.
 
@@ -79,7 +79,7 @@ var media = (notaP1 + notaP2) / 2;
 alert("Media do aluno = "+media);
 ```
 
-![[Capitulo 9 - Primeiros passos com o Javascript-20250219231045495.webp]]
+![[FIAP/Imagens/Capitulo 9 - Primeiros passos com o Javascript-20250219231045495.webp]]
 
 Portanto a partir de agora, vamos começar a fazer vários pequenos programas em JS para efetivamente calcularmos valores e gerarmos resultados para os usuários.
 

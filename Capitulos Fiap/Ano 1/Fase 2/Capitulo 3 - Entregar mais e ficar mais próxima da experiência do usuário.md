@@ -143,7 +143,7 @@ O atributo colspan define o número de colunas que devem ser mescladas. Imagine 
 </tfoot>
 ```
 
-![[Capitulo 3 - Entregar mais e ficar mais próxima da experiência do usuário-20250206161500557.webp]]
+![[FIAP/Imagens/Capitulo 3 - Entregar mais e ficar mais próxima da experiência do usuário-20250206161500557.webp]]
 
 ## Atributo ROWSPAN
 
@@ -153,7 +153,7 @@ O atributo rowspan define o número de linhas que devem ser mescladas. Imagine q
    <td rowspan="3">Vídeos em HDR</td>
 </tr>
 ```
-![[Capitulo 3 - Entregar mais e ficar mais próxima da experiência do usuário-20250206162909224.webp]]
+![[FIAP/Imagens/Capitulo 3 - Entregar mais e ficar mais próxima da experiência do usuário-20250206162909224.webp]]
 
 
 # Estilizando a tabela
@@ -259,4 +259,4 @@ Vamos entender o que está acontecendo nesse css estilizado
 Foi usado pseudoclasse para as linhas de dados pares, tbody tr:nth-child(even), nesse caso, elas devem ficar com cor de fundo f9f9f9. As pseudoclasses permitem aplicar formatações a algumas condições de um elemento, veremos mais sobres elas em breve. Esse efeito aplicado as linhas pares deixara a tabela como se estivesse zebrada, facilitando a leitura para o usuário.
 
 A ultima linha do tbody também recebeu  tr:last-child, nesse caso, teremos uma borda inferior em 20px, estilo sólida na cor rgb.
-![[Capitulo 3 - Entregar mais e ficar mais próxima da experiência do usuário-20250206165737124.webp]]
+![[FIAP/Imagens/Capitulo 3 - Entregar mais e ficar mais próxima da experiência do usuário-20250206165737124.webp]]

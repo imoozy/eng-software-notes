@@ -69,8 +69,8 @@ EX:
 
 - O Bootstrap adiciona elementos HTML e propriedades CSS que requerem o DOCTYPE HTML 5.
 - Sempre inclua o tipo do documento HTML5 no início da página, junto com o atributo lang e o titulo e conjunto de caracteres incorretos.
-- ![[Capitulo 2 - Front-end design e mais-20250224154135404.webp]]
-- ![[Capitulo 2 - Front-end design e mais-20250224154147340.webp]]
+- ![[FIAP/Imagens/Capitulo 2 - Front-end design e mais-20250224154135404.webp]]
+- ![[FIAP/Imagens/Capitulo 2 - Front-end design e mais-20250224154147340.webp]]
 
 # Containers
 
@@ -105,7 +105,7 @@ A classe .container é utilizada para criar um contêiner responsivo de largura 
 
 Observe que sua largura (max-width) mudará em diferentes tamanhos da tela:
 
-![[Capitulo 2 - Front-end design e mais-20250224161650040.webp]]
+![[FIAP/Imagens/Capitulo 2 - Front-end design e mais-20250224161650040.webp]]
 
 ## Borda e cor do contêiner
 
@@ -140,7 +140,7 @@ Para criar um layout responsivo, podemos usar as classes .container-sm/md/lg/xl 
 
 O conteúdo do max-width mudará em diferentes tamanhos de tela de visualização, dessa forma o que determinará a responsividade será a combinação dos elementos a cima.
 
-![[Capitulo 2 - Front-end design e mais-20250224202424332.webp]]
+![[FIAP/Imagens/Capitulo 2 - Front-end design e mais-20250224202424332.webp]]
 
 # Bootstrap grid system
 
@@ -200,7 +200,7 @@ O conteúdo do max-width mudará em diferentes tamanhos de tela de visualizaçã
 
 O sistema de grid do Bootstrap tem seis classes:
 
-![[Capitulo 2 - Front-end design e mais-20250224203627915.webp]]
+![[FIAP/Imagens/Capitulo 2 - Front-end design e mais-20250224203627915.webp]]
 
 # Estrutura básica de um grid
 
@@ -338,7 +338,7 @@ Observe que as cores e fundo não definem a cor do texto, portanto, em alguns ca
 
 Como utilizar então o framework para customizar as tabelas:
 
-![[Capitulo 2 - Front-end design e mais-20250224204613439.webp]]
+![[FIAP/Imagens/Capitulo 2 - Front-end design e mais-20250224204613439.webp]]
 
 ```html
 <!DOCTYPE html>
@@ -411,7 +411,7 @@ Como utilizar então o framework para customizar as tabelas:
 
 Bootstrap possui algumas classes que nos auxiliam na formatação de elmentos do tipo imagem, são classes que podem utilizar para aplicar efeitos de arredondamento, estilo polaroid etc.:
 
-![[Capitulo 2 - Front-end design e mais-20250224214617280.webp]]
+![[FIAP/Imagens/Capitulo 2 - Front-end design e mais-20250224214617280.webp]]
 
 ```html
 <!DOCTYPE html>

@@ -103,9 +103,9 @@ legend = como fieldset, também foram modificados para serem exibidos como um ti
 
 label = são definidos para display: inline-block permitir margin na aplicação.
 
-![[Capitulo 2 - Um pouco mais de Bootstrap-20250318142341633.webp]]
-![[Capitulo 2 - Um pouco mais de Bootstrap-20250318142354366.webp]]
-![[Capitulo 2 - Um pouco mais de Bootstrap-20250318142403691.webp]]
+![[FIAP/Imagens/Capitulo 2 - Um pouco mais de Bootstrap-20250318142341633.webp]]
+![[FIAP/Imagens/Capitulo 2 - Um pouco mais de Bootstrap-20250318142354366.webp]]
+![[FIAP/Imagens/Capitulo 2 - Um pouco mais de Bootstrap-20250318142403691.webp]]
 
 Certifique-se de usar um atributo apropriado em todas as entradas a fim de aproveitar os controles de entrada mas recentes, como verificação de e-mail, seleção de número e muito mais.
 
@@ -170,7 +170,7 @@ Os botões têm um papel relativamente relevante dentro de um form; por meio del
 <button type="button" class="btn btn-link">Link</button>
 ```
 
-![[Capitulo 2 - Um pouco mais de Bootstrap-20250319151001682.webp]]
+![[FIAP/Imagens/Capitulo 2 - Um pouco mais de Bootstrap-20250319151001682.webp]]
 
 
 ## Formulário empilhado
@@ -197,7 +197,7 @@ Todos os elementos textuais input e textarea com classe .form-control obtém um 
 ```
 
 
-![[Capitulo 2 - Um pouco mais de Bootstrap-20250324103921904.webp]]
+![[FIAP/Imagens/Capitulo 2 - Um pouco mais de Bootstrap-20250324103921904.webp]]
 Com uma classe .form-lavel para cada elemento de rótulo, irá ocorrer um preenchimento correto para os elementos.
 
 As caixas de seleção possuem marcações diferentes. Elas são agrupadas por meio de um elemento de contêiner chamado .form-check, os rótulos têm uma classe .form-check-label, enquanto as caixas de seleção e os botões de opção utilizam .form-check-input

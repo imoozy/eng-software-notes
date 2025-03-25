@@ -23,10 +23,10 @@ O que podemos fazer com String? Além e armazenar textos, podemos também realiz
 
 ## Concatenação
 
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144041424.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144041424.webp]]
 ## Busca de palavras
 
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144119082.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144119082.webp]]
 
 ```JS
 var posicao = roteiro.search("Parque do Ibirapuera");
@@ -34,13 +34,13 @@ console.log(posicao);
 ```
 
 Exemplo:
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144326633.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144326633.webp]]
 
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144148685.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144148685.webp]]
 
 ## Prefixos e sufixos
 
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144633397.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144633397.webp]]
 ```JS
 var resultado = texto.endsWith("Paulista");
 console.log(resultado); // o resultado será FALSE
@@ -48,22 +48,22 @@ console.log(resultado); // o resultado será FALSE
 
 ## Subpalavras
 
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144721904.webp]]
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144733571.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144721904.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144733571.webp]]
 Nesse caso o resultado exibido será Gasolina.
 
 ## Extração de conjuntos de palavras
 
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144810396.webp]]
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144822468.webp]]
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144836028.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144810396.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144822468.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144836028.webp]]
 
 ## Substituindo palavras
 
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144856972.webp]]
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144918233.webp]]
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144930567.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144856972.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144918233.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144930567.webp]]
 
 ## Um tipo de substituição especial
 
-![[Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144959264.webp]]
+![[FIAP/Imagens/Capitulo 10 - Utilizando o front integrando o JS com HTML 5-20250224144959264.webp]]

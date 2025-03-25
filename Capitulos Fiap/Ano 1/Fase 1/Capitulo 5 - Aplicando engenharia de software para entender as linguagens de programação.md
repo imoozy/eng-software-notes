@@ -25,7 +25,7 @@ A CSS Inline consiste na inserção de código CSS dentro da tag do elemento HTM
 <h3 style=”color: red;”>Restaurantes</h3>
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241031215903685.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241031215903685.webp]]
 
 No código-fonte "Estilização CSS Inline", as tags h2 e h3 receberam o atributo ***Style***, contendo a regra que define a cor do texto color. Essa parte da regra é chamada de propriedade. Foi atribuída a palavra red, que indica a cor em que o texto ficará. Essa parte da regra é chamada de valor. Como todo têm a mesma regra, os quatro elementos terão seus textos exibidos na cor vermelha.
 
@@ -59,7 +59,7 @@ body{
 }
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241031222049840.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241031222049840.webp]]
 
 Para que o navegador entenda que ali teremos a formatação da página, é preciso colocar as regras CSS dentro da tag ***Style***. Como boa prática, devemos também usar o atributo type, que indicara o tipo de mídia de internet que será usado. O valor padrão é ***text/css***.
 
@@ -104,7 +104,7 @@ Para que o navegador entenda que ali teremos a formatação da página, é preci
 }
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217205607502.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217205607502.webp]]
 
 ## Seletor de classe e ID
 
@@ -133,8 +133,8 @@ p{
 }
 ```
 
-![[Capitulo 5 - Representação do código.webp]]
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217210229886.webp]]
+![[FIAP/Imagens/Capitulo 5 - Representação do código.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217210229886.webp]]
 
 ## Ajustando parágrafo
 
@@ -159,7 +159,7 @@ p span{
 }
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217211554657.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217211554657.webp]]
 
 ## Ajustando o cabeçalho
 
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6{
 }
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217212447130.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217212447130.webp]]
 ```CSS
 h1{
 	text-align: center;
@@ -202,8 +202,8 @@ h4{
 }
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217212631735.webp]]
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217212908967.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217212631735.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217212908967.webp]]
 
 # CSS EXTERNO
 
@@ -215,7 +215,7 @@ Para que a página seja desenvolvida, deve-se fazer o uso de um link do HTML com
 
 Especificidade define qual seletor é mais especifico que outro, ou seja, determina qual regra deve ser aplicada. Esta condição existe entre tags, seletores e modos de inserção de CSS.
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217215732733.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20241217215732733.webp]]
 
 # LINKS PARA PÁGINAS DO MESMO SITE: LINKS INTERNOS
 
@@ -223,7 +223,7 @@ Para criarmos os links entre as páginas, utilizamos a tag ***a***, que deve ser
 
 Podemos fazer o link entre páginas do mesmo site, basta referenciar o arquivo HTML desejado dentro do atributo href, contido na tag ***a***.
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20250106215938007.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20250106215938007.webp]]
 
 ## Listas ordenadas
 
@@ -242,7 +242,7 @@ Devem ser criadas com o uso da tag ***ol***. cada item da lista deverá estar de
 </body>
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20250106220834876.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20250106220834876.webp]]
 
 ## Lista não ordenadas
 
@@ -262,7 +262,7 @@ Listas não ordenadas serão de grande uso na criação dos menus de navegação
 </body>
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20250106221404537.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20250106221404537.webp]]
 
 ## Listas de definição
 
@@ -284,7 +284,7 @@ Permitem a criação de um conjunto de termos e as suas respectivas definições
 </body>
 ```
 
-![[Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20250106221602058.webp]]
+![[FIAP/Imagens/Capitulo 5 - Aplicando engenharia de software para entender as linguagens de programação-20250106221602058.webp]]
 
 ## Tabelas internas com hover
 

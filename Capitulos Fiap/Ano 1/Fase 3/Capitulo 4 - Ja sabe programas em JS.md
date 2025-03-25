@@ -12,8 +12,8 @@ if ( teste lógico ){
 
 Quais testes lógicos e quais operações podemos incluir nesse teste lógico?
 
-![[Capitulo 4 - Ja sabe programas em JS-20250227200107729.webp]]
-![[Capitulo 4 - Ja sabe programas em JS-20250227200117253.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250227200107729.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250227200117253.webp]]
 
 Entendemos como é a estrutura do comando if e quais operadores podemos usar. Mas como fazer isso na prática?
 
@@ -42,7 +42,7 @@ alert ("Bom passeio");
 
 Nesse código-fonte, podemos ver que a mensagem "Aproveite os Quiosques de água de coco" só é exibida se o valor digitado for acima de 10 reais. Caso contrário, a instrução é ignorada e já pulamos é ignorada e já pulamos para a instrução seguinte ao bloco if. Também é possível visualizar o mesmo código graficamente.
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310094308043.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310094308043.webp]]
 
 ```js
 var nomeTurista;
@@ -58,9 +58,9 @@ else{
 alert ("Bom passeio");
 ```
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310101200069.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310101200069.webp]]
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310101341068.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310101341068.webp]]
 
 Certo, mas como utiliza-los? Suponha as seguintes condições para decidir-se é possível ir a um passeio pelo centro da cidade, num sábado:
 
@@ -69,22 +69,22 @@ Certo, mas como utiliza-los? Suponha as seguintes condições para decidir-se é
 
 Baseado no operador AND (&&), que será nosso primeiro estudo, temos os quadro-verdade:
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310101634547.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310101634547.webp]]
 
 O resultado do operador AND só é verdadeiro na situação em que ambas as condições são verdadeiras.
 De forma análoga, temos o operador OR para analisar. nesse caso, diferentemente do AND, basta, para o OR que uma das condições seja verdadeira para o resultado ser verdadeiro.
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310102014535.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310102014535.webp]]
 
 Por fim, temos o operador NOT (!) que nega (ou inverte) o resultado de uma condição lógica. 
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310102102165.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310102102165.webp]]
 
 # A decisão alinhada
 
 Sabemos que a instrução IF-ELSE trata apenas situações em que temos uma ação em caso verdadeiro e outra ação em caso falso. E como tratar nosso exemplo anterior no qual temos quatro diferentes situações:
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310102325923.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310102325923.webp]]
 
 ```JS
 visitantes = Number(prompt("Olá! Quantos visitantes?"));
@@ -99,7 +99,7 @@ if (visitantes <= 5){
 }
 ```
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310102603665.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310102603665.webp]]
 
 # A seleção Múltipla
 
@@ -107,7 +107,7 @@ O operador de seleção múltipla, representado pelo Switch é um operador basta
 
 Imagine a situação de um aplicativo para Fast Food, no qual você digita o número do combo desejado e ele exibe os itens desse combo e o preço:
 
-![[Capitulo 4 - Ja sabe programas em JS-20250310102821964.webp]]
+![[FIAP/Imagens/Capitulo 4 - Ja sabe programas em JS-20250310102821964.webp]]
 
 Estrutura do Switch:
 

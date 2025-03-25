@@ -21,7 +21,7 @@ Quando aprendemos uma nova linguagem de programação é recomendável consultar
 
 ## ALGORITMO: MÉDICA DE 3 NOTAS - APROVAÇÃO E REPROVAÇÃO
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250114224300492.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250114224300492.webp]]
 
 ```python
 #Digitar as 3 notas
@@ -43,21 +43,21 @@ Em algoritmos nós chamamos de desvio condicional a estrutura que permite realiz
 
 Em um fluxograma é fácil entender o funcionamento do desvio condicional:
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250114230107881.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250114230107881.webp]]
 
 
 ## Operadores relacionais
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250114230432990.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250114230432990.webp]]
 
 Exemplos:
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250114230533942.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250114230533942.webp]]
 5. falso (toda vez que ler isso, terá que explicar o motivo de falso)
 
 ## INSTRUÇÃO DE DECISÃO IF
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116211706433.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116211706433.webp]]
 Entrada: 13       Saída: 13
 entrada: -4        Saída: 4
 
@@ -75,7 +75,7 @@ print(f"O seu número é o: {soma}")
 
 ## Algoritmo aplicando um desconto simples
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116213332168.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116213332168.webp]]
 
 
 ```python
@@ -91,7 +91,7 @@ print(f"O valor de sua compra será de: {valor_compra:.2f}")
 
 ## Algoritmo: Verificando o maior valor de 3 números
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116214321810.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116214321810.webp]]
 
 
 ```python
@@ -114,7 +114,7 @@ else:
 ```
 
 é possivel que nos deparemos com problemas que exigem ações tanto para o caso de o teste ser verdadeiro quanto para o caso de o teste ser falso. 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116215924573.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116215924573.webp]]
 
 O desvio condicional que é capaz de realizar uma ação para o caso de a condição ser verdadeira e outra ação para o caso de a condição ser falsa, damos o nome de desvio condicional composto.
 
@@ -122,7 +122,7 @@ Resta ainda o último cenário: o que acontece caso dependendo do resultado de u
 
 Para resolver esse problema, usamos uma estrutura chamada desvio condicional encadeado:
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116220217557.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250116220217557.webp]]
 
 É menos importante se preocupar com os nomes de cada uma das estruturas do que com as ocasiões em que devem ser usadas. Frequentemente os desvios condicionais serão referidos como ifs. Isso ocorre porque na maior parte das linguagens de programação essa é a palavra que designa um desvio
 
@@ -163,9 +163,9 @@ Apesar do programa atingir o objetivo proposto, ele tem algumas falhas no quesit
 
 ## If composto em python
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121203252896.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121203252896.webp]]
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121203532055.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121203532055.webp]]
 ```python
 # leitura de idade do usuário
 idade = int(input("digite sua idade"))
@@ -274,8 +274,8 @@ else:
 
 ## IF encadeado em python
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121212640571.webp]]
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121212952422.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121212640571.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121212952422.webp]]
 
 Modo encadeado certo:
 ```python
@@ -354,7 +354,7 @@ else:
 ## O python e o poder do ELIF!
 
 ## Operador lógicos validade de nota
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121214528405.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121214528405.webp]]
 
 ## Operadores lógicos validade de nota com média
 
@@ -400,10 +400,10 @@ else:
 	print("Dia invalido")
 ```
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121215936233.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121215936233.webp]]
 Menu de programa em python
 
-![[Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121220003821.webp]]
+![[FIAP/Imagens/Capitulo 7 - Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões-20250121220003821.webp]]
 Caso queira deixar o exercício colocar o código dentro da escolha.
 
 
