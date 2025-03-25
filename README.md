@@ -39,18 +39,6 @@ Este repositório reúne **anotações, projetos e guias práticos** das matéri
 
 ---
 
-## 📂 Estrutura do Repositório
-/fundamentos
-/logica-prog
-📝 anotacoes-aula-1.md
-🐍 codigos-comentados.py
-/front-end
-🎨 template-landing-page.zip
-/duvidas-comuns
-❓ como-debuggar-javascript.md
-
----
-
 ## 🤝 Como Contribuir
 1. Encontrou um erro? **Abra uma [issue](https://github.com/imoozy/eng-software-notes/issues)**
 2. Quer adicionar um exemplo? **Faça um PR!**
