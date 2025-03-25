@@ -1,0 +1,1 @@
+![[1ESO - Fase 2 - Cap08 - Matematica para TI como TI.docx_RevFinal.pdf]]
