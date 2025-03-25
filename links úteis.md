@@ -1,10 +1,10 @@
-Curso em video:
+#Curso em video
 https://www.cursoemvideo.com
 
-Biblioteca de livros DEV:
+#Biblioteca de livros DEV
 https://github.com/KAYOKG/BibliotecaDev
 
-ferramenta para programação:
+#ferramenta para programação
 https://www.cursor.com - Ajuda inicialmente a entender alguns pontos de programação e linha de código
 https://code.visualstudio.com/download - padrão para programação
 https://www.eclipse.org/downloads/ - Para programação em JAVA contendo também netbeans
