@@ -22,10 +22,10 @@ Este repositório reúne **anotações, projetos e guias práticos** das matéri
 ### 🔍 **Fundamentos (1º-2º Semestre)**
 | Matéria          | O que você encontra aqui?                          |
 |------------------|---------------------------------------------------|
-| **Lógica de Programação** | Exercícios em Python + dicas para fugir de armadilhas comuns |
-| **Front-end Essentials**  | Templates HTML/CSS prontos + como evitar `div` soup |
+| **Lógica de Programação** | Exercícios em Python e explicações de como fazer os mesmos |
+| **Front-end Essentials**  | exercícios de HTML/CSS prontos |
 | **Modelo de laço de repetição**        | Uso do laço de repetição no dia a dia e explicação |
-
+| **Programação**        | No momento só as linguagens de JavaScript e Python foram documentadas |
 
 
 *(Atualizado conforme avanço no curso - próxima matéria: **?**)*
