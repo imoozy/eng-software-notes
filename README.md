@@ -62,4 +62,4 @@ Este repositório reúne **anotações, projetos e guias práticos** das matéri
 > *"Se ajudou você, dá uma ⭐ no repo para alcançar mais devs iniciantes!"*
 
 ---
-🔄 **Atualizado semanalmente** - Próximo update: **15/jul com material de Java OO**
+🔄 **Atualizado semanalmente** - Próximo update: **31/mar com novo material**
