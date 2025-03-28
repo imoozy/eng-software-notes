@@ -10,3 +10,4 @@
 - https://www.eclipse.org/downloads/ - Para programação em JAVA contendo também netbeans
 - https://www.jetbrains.com/pycharm/ - Para programação em Python
 - https://www.sublimetext.com - Para linguagem de marcação HTML, CSS e programar em JavaScript
+- https://www.codedex.io - Ferramenta para treinar sua programação independente da linguagem
